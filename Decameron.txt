@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>Decameron</title>
+    </head>
+<body>
+<h4>I TEMI </h4>
+<p>I temi sono stabiliti giorno per giorno dal re o dalla regina di turno, ma i tre principali nuclei tematici individuati riguardano: la fortuna(II,III giornata) l'amore(IV,V giornata) e l'ingegno(VI-VIII).<br></p>
+I temi specifici trattati nelle 10 giorate sono:<br>
+<table>
+    <tr>
+        <td>Prima:</td>
+        <td>Libero</td>
+    </tr>
+    <tr>
+        <td>Seconda:</td>
+        <td>Casi fortunati</td>
+    </tr>
+    <tr>
+        <td>Terza:</td>
+        <td>Il potere dell'ingegno</td>
+    </tr>
+    <tr>
+        <td>Quarta:</td>
+        <td>amori infelici </td>
+    </tr>
+    <tr>
+        <td>Quinta:</td>
+        <td>amori felici</td>
+    </tr>
+    <tr>
+        <td>Sesta:</td>
+        <td>motti di spirito, riposte argute</td>
+    </tr>
+    <tr>
+        <td>Settima:</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Ottava:</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Nona:</td>
+        <td>Libero</td>
+    </tr>
+    <tr>
+        <td>Decima:</td>
+        <td></td>
+    </tr>
+</table>
+
+
+</body>
+</html>
